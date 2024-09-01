@@ -1,3 +1,4 @@
 google-cloud-compute
 pytz
 google-api-core
+google-auth
