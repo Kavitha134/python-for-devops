@@ -1,0 +1,3 @@
+google-cloud-compute
+pytz
+google-api-core
